@@ -6,5 +6,5 @@ In order to create a rock paper scissor game, we should be fully familiar with t
 So, rock wins over scissors, scissors win over paper and paper wins over rock. With the understanding of the rules, we can proceed to create the game.
 In our code, this module will generate a random choice for the computer amongst rock, paper or scissors.
 We have then defined a list of options (Rock, Paper, Scissors) that the user has to choose one from.
-Next, we ask the user to input their choice using the input() function. The input that the user enters is stored in the user_choice variable. 
+Next, we ask the user to input their choice using the input function. The input that the user enters is stored in the user_choice variable. 
 one of the above rules and conditions must come true and if none of these conditions are true, this means that the computer has won.
